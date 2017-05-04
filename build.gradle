@@ -30,6 +30,7 @@ ext {
     // Network Library版本号
     networkVersionCode = 1
     networkVersionName = "1.0"
+    okhttpVersion = "3.7.0"
 
     // Database Library版本号
     databaseVersionCode = 1
