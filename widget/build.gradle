@@ -26,4 +26,5 @@ dependencies {
     })
     compile "com.android.support:appcompat-v7:$rootProject.ext.supportVersion"
     testCompile "junit:junit:$rootProject.ext.junitVersion"
+    compile "com.facebook.fresco:fresco:$rootProject.ext.frescoVersion"
 }
